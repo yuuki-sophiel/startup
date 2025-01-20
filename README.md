@@ -6,7 +6,8 @@
 
 ## Python インストール
 
-- [【Windows11】Pythonをインストールする手順 | 挑戦！プログラミングブログ](https://challenge-pg.com/2023/01/21/win11-python-install/)
+- [pyenv-winを使ってWindows上にPython環境を構築する](https://zenn.dev/is0383kk/articles/09e5fd89cbd30c)
+    - Python のバージョンは 3.10.11 をインストール
 
 ## Docker Desktop インストール
 
